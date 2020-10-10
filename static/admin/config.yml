@@ -1,6 +1,8 @@
 backend:
-  name: git-gateway
+  name: Gatsby-Netlify
   branch: master
+
+media_folder: "images/uploads"
 
 collections:
   - name: "blog"
