@@ -1,6 +1,6 @@
 backend:
-  name: Gatsby-Netlify
-  branch: master
+  name: github
+  repo: KWYH/Gatsby-Netlify
 
 media_folder: "images/uploads"
 
